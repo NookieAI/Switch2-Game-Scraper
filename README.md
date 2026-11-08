@@ -12,6 +12,12 @@
 
 ---
 
+<div align="center">
+<img src="https://github.com/NookieAI/Switch2-Game-Scraper/releases/download/v1.0.0/switch2-game-browser-screenshot.png" alt="Switch 2 Game Browser screenshot" width="800">
+</div>
+
+---
+
 ## ⬇️ Download
 
 Grab the right file for your computer from the **[Latest Release](https://github.com/NookieAI/Switch2-Game-Scraper/releases/latest)** page:
